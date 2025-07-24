@@ -17,16 +17,16 @@ FaceLink is a social networking web application that mimics the core features of
 - **Database:** MySQL
 - **Server:** Apache Tomcat
 
-## 📸 Screenshots
+# Screenshots
 
-### 🔐 Login Page
-![Login Page](screenshots/Screenshot (288).png)
+## 🔐 Login Page  
+![Login Page](screenshots/Screenshot%20(288).png)
 
-### 📝 Signup Page
-![Signup Page](screenshots/Screenshot (287).png)
+## 📝 Signup Page  
+![Signup Page](screenshots/Screenshot%20(287).png)
 
-### 🎉 Welcome Dashboard
-![Dashboard](screenshots/Screenshot (286).png)
+## 🎉 Welcome Dashboard  
+![Dashboard](screenshots/Screenshot%20(286).png)
 
 ## 📦 How to Run
 
